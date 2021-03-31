@@ -1,1 +1,2 @@
-# C36-Goat
+# synchronousBallMovement
+Ball moving synchronously
